@@ -883,4 +883,4 @@
       style: Bold
 
   window:
-    opacity: 0.9
+    opacity: 0.9 # This require window compositor on Linux eg. picom,
